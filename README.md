@@ -125,9 +125,13 @@ Each backup generates a **README file** with:
 
 Example README\_\*.txt:
 
-Copy
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Backup Information  =================  Date: Fri Jan 25 14:20:22 UTC 2024  Backup Name: web_backup_20240125_142022.tar.gz  Location: /home/user/backups  Size: 245M  Description:  Main website backup before updates   `
+`   
+Backup Information  =================  
+Date: Fri Jan 25 14:20:22 UTC 2024 
+Backup Name: web_backup_20240125_142022.tar.gz  
+Location: /home/user/backups 
+Size: 245M  
+Description: Main website backup before updates   `
 
 **🛑 Troubleshooting**
 ----------------------
@@ -143,5 +147,4 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 
 Run the script and start backing up!
 
-
-`   ./backup_tool.sh   `
+ ./backup_tool.sh   `
