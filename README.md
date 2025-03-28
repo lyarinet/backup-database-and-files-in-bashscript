@@ -6,11 +6,11 @@ This guide explains how to use the **Simple Backup Tool**, a bash script that h
 **📥 Installation**
 -------------------
 
-1.  shCopynano backup\_tool.shPaste the script content and save (Ctrl+O, Enter, Ctrl+X).
+1.  `nano backup\_tool. Paste the script content and save (Ctrl+O, Enter, Ctrl+X).`
     
-2.  shCopychmod +x backup\_tool.sh
+2.  `chmod +x backup\_tool.sh`
     
-3.  shCopy./backup\_tool.sh
+3.  `./backup\_tool.sh`
     
 
 **🔄 How It Works**
@@ -59,7 +59,7 @@ This guide explains how to use the **Simple Backup Tool**, a bash script that h
 
 ### **Backing Up a Web Directory**
 
-1.  shCopy./backup\_tool.sh
+1.  `./backup\_tool.sh`
     
 2.  Choose **"Backup web directory?"** (y).
     
@@ -83,7 +83,7 @@ This guide explains how to use the **Simple Backup Tool**, a bash script that h
 
 ### **Backing Up MySQL Databases**
 
-1.  shCopy./backup\_tool.sh
+1.  `./backup\_tool.sh`
     
 2.  Choose **"Backup MySQL databases?"** (y).
     
@@ -147,4 +147,4 @@ Description: Main website backup before updates   `
 
 Run the script and start backing up!
 
- ./backup_tool.sh   `
+ `./backup_tool.sh   `
