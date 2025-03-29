@@ -136,7 +136,14 @@ Description: Main website backup before updates   `
 **🛑 Troubleshooting**
 ----------------------
 
-**IssueSolution"Directory doesn't exist!"**Check the path and try again.**"No databases found!"**Verify MySQL credentials and permissions.**Backup fails**Ensure enough disk space in the destination.**Script permission denied**Run chmod +x backup\_tool.sh.
+**
+"Directory doesn't exist!"
+**Check the path and try again.
+**"No databases found!"
+**verify MySQL credentials and permissions.
+**Backup fails**Ensure enough disk space in the destination.
+**Script permission denied
+**`Run chmod +x backup\_tool.sh`.
 
 **📌 Tips**
 -----------
